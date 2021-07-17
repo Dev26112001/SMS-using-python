@@ -1,4 +1,3 @@
-# SMS-using-python
 import pickle
 import os
 import urllib
